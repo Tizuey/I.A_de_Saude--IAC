@@ -6,7 +6,7 @@
 ---
 
 ### 🖼️ **ETAPA 1: PRÉ-PROCESSAMENTO PARA CURSIVO**
-
+#### 1. Normalização de Iluminação
 **Objetivo:** Corrigir variações de brilho sem perder traços finos  
 **Métodos Recomendados:**
 - **CLAHE**: Equaliza o contraste localmente, ideal para papéis texturizados  
